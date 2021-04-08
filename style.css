@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+.btn{
+    background-color:chocolate;
+}
+.eq button{
+    height:410px;
+    background-color:rgb(241, 229, 229);
+}
+input{
+    border:2px solid chocolate;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    font-size: 40px;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border:2px solid lightgray;
+    padding: 13px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
