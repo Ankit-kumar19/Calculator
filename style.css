@@ -8,7 +8,7 @@ table{
 }
 // this is button
 .btn{
-    background-color:chocolate;
+    background-color:lightseagreen;
 }
 
 
@@ -18,7 +18,7 @@ table{
     background-color:rgb(241, 229, 229);
 }
 input{
-    border:2px solid chocolate;
+    border:2px skyblue;
     font-size:34px;
     height: 65px;
     width: 456px;
