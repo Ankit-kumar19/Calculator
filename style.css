@@ -2,14 +2,17 @@
     text-align: center;
     margin-top:23px
 }
-
+ // this is table
 table{
     margin: auto;
 }
-
+// this is button
 .btn{
     background-color:chocolate;
 }
+
+
+// this is eq
 .eq button{
     height:410px;
     background-color:rgb(241, 229, 229);
@@ -21,6 +24,7 @@ input{
     width: 456px;
 }
 
+// this is button
 button{
     font-size: 40px;
     width: 102px;
@@ -28,6 +32,7 @@ button{
     margin: 6px;
 }
 
+// this is calculator
 .calculator{ 
     border:2px solid lightgray;
     padding: 13px;
@@ -35,6 +40,7 @@ button{
     
 }
 
+// this is h1
 h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
